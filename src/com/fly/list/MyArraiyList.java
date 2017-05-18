@@ -1,9 +1,7 @@
 package com.fly.list;
 
 
-import jdk.nashorn.internal.runtime.arrays.ArrayLikeIterator;
 
-import javax.swing.text.html.HTMLDocument;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
